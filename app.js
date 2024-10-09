@@ -46,3 +46,7 @@
 // console.log(titleCase.charAt(0).toUpperCase())
 
 
+//12
+// var num = 35.36;
+// var result = num.toString().replace(".", "");
+// document.write(result);
